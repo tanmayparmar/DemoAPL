@@ -2,7 +2,7 @@
 </ActionBar>
 <ScrollView>
   <StackLayout>
-    <Label class="h2 header mx-auto" text="Most Runs"></Label>
+    <Label class="h2 header text-center" text="Most Runs"></Label>
   <StackLayout class="card">
     <ListView [items] = "players$ | async" height="300">
       <ng-template let-item="item">
