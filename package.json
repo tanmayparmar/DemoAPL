@@ -1,0 +1,43 @@
+{
+  "description": "Application For Atmiya Premier League",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "readme": "NativeScript Application",
+  "repository": "<fill-your-repository-here>",
+  "nativescript": {
+    "id": "org.nativescript.DemoAPL",
+    "tns-android": {
+      "version": "3.4.1"
+    },
+    "tns-ios": {
+      "version": "3.4.1"
+    }
+  },
+  "dependencies": {
+    "@angular/animations": "5.2.6",
+    "@angular/common": "5.2.6",
+    "@angular/compiler": "5.2.6",
+    "@angular/core": "~5.2.0",
+    "@angular/forms": "5.2.6",
+    "@angular/http": "5.2.6",
+    "@angular/platform-browser": "5.2.6",
+    "@angular/platform-browser-dynamic": "5.2.6",
+    "@angular/router": "5.2.6",
+    "nativescript-angular": "~5.2.0",
+    "nativescript-plugin-firebase": "^5.1.7",
+    "nativescript-theme-core": "~1.0.4",
+    "next": "^5.0.0",
+    "reflect-metadata": "0.1.12",
+    "rxjs": "5.5.6",
+    "tns-core-modules": "3.4.1",
+    "zone.js": "0.8.20"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.4.5",
+    "babel-types": "6.4.5",
+    "babylon": "6.4.5",
+    "lazy": "1.0.11",
+    "nativescript-dev-typescript": "~0.6.0",
+    "typescript": "~2.6.2"
+  },
+  "author": "APL"
+}
