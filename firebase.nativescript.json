@@ -1,14 +1,25 @@
 {
     "using_ios": true,
     "using_android": true,
+<<<<<<< HEAD
     "firestore": false,
+=======
+    "firestore": true,
+>>>>>>> 90cae6837d3056314442ed396a999ea49f4247d8
     "realtimedb": true,
     "remote_config": true,
     "messaging": true,
     "crash_reporting": true,
     "storage": true,
+<<<<<<< HEAD
     "facebook_auth": false,
     "google_auth": true,
     "admob": false,
     "invites": false
+=======
+    "facebook_auth": true,
+    "google_auth": true,
+    "admob": true,
+    "invites": true
+>>>>>>> 90cae6837d3056314442ed396a999ea49f4247d8
 }
