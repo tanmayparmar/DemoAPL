@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "165412092097",
+    "firebase_url": "https://demoapl-68210.firebaseio.com",
+    "project_id": "demoapl-68210",
+    "storage_bucket": "demoapl-68210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165412092097:android:6da04b2f7508dac9",
+        "android_client_info": {
+          "package_name": "org.nativescript.DemoAPL"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165412092097-fqgvhia41f50fuqvi11bua8l19u9rhof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw6kpb03WI4OyNGeSWBNlaWPd_qNb237Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
