@@ -11,13 +11,15 @@ export const routes: Routes = [
 
     // {path:"",redirectTo:"runList",pathMatch:"full"},
     // {path:"home",component: AppComponent},
+    { path:"", component: Apl2017statsComponent},
+    { path:"apl2017stats", component: Apl2017statsComponent},
       { path: "mostRunsList", component: MostRunsListComponent},
       { path: "mostWicketsList", component: MostWicketsListComponent },
-      { path:"apl2017stats", component: Apl2017statsComponent}
+    
      ];
 
-@NgModule({
-    imports: [NativeScriptRouterModule.forRoot(routes)],
-    exports: [NativeScriptRouterModule]
-})
-export class AppRoutingModule { }
+     export const navigatableComponents: any = [ 
+     Apl2017statsComponent,
+        MostRunsListComponent,
+        MostWicketsListComponent
+      ];

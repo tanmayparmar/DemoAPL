@@ -2,13 +2,14 @@ import { MostRunsListComponent } from "./apl2017stats/most-runs-list/most-runs-l
 import { FirebaseService } from "./services/firebase.service";
 import { NgModule, NO_ERRORS_SCHEMA } from "@angular/core";
 import { NativeScriptModule } from "nativescript-angular/nativescript.module";
-import { AppRoutingModule } from "./app.routing";
+import { navigatableComponents, routes } from "./app.routing";
 import { AppComponent } from "./app.component";
 import { ItemService } from "./item/item.service";
 import { ItemsComponent } from "./item/items.component";
 import { ItemDetailComponent } from "./item/item-detail.component";
 import { Apl2017statsComponent } from "./apl2017stats/apl2017stats.component";
 import { MostWicketsListComponent } from "./apl2017stats/most-wickets-list/most-wickets-list.component";
+import { NativeScriptRouterModule } from "nativescript-angular/router";
 
 // uncomment and add to NgModule imports if you need to use two-way binding
 // import { NativeScriptFormsModule } from "nativescript-angular/forms";
@@ -18,19 +19,19 @@ import { MostWicketsListComponent } from "./apl2017stats/most-wickets-list/most-
 
 @NgModule({
     bootstrap: [
-        AppComponent
+     AppComponent
     ],
     imports: [
         NativeScriptModule,
-        AppRoutingModule
+        NativeScriptRouterModule,                
+    NativeScriptRouterModule.forRoot(routes)
+        
     ],
     declarations: [
         AppComponent,
         ItemsComponent,
         ItemDetailComponent,
-        MostRunsListComponent,
-        MostWicketsListComponent,
-        Apl2017statsComponent
+        ...navigatableComponents
     ],
     providers: [
         ItemService,

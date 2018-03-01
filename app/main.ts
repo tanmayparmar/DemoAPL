@@ -1,6 +1,6 @@
 import { AppComponent } from "./app.component";
 import { NativeScriptRouterModule } from "nativescript-angular/router";
-import { AppRoutingModule, routes } from "./app.routing";
+import { routes } from "./app.routing";
 import { NativeScriptModule } from "nativescript-angular/nativescript.module";
 // this import should be first in order to load some required settings (like globals and reflect-metadata)
 import { platformNativeScriptDynamic } from "nativescript-angular/platform";
@@ -23,21 +23,6 @@ firebase.init({
     console.log("firebase.init error: " + error);
   }
 );
-
-@NgModule({
-  declarations: [AppComponent],
-    bootstrap: [AppComponent],
-    imports: [
-        NativeScriptModule,
-        NativeScriptRouterModule,
-        NativeScriptRouterModule.forRoot(routes),
-         ],
-    providers: [AppComponentModule]
-})
-
-export class AppComponentModule {
-
-}
 
 // a traditional NativeScript application starts by initializing global objects, setting up global CSS rules, creating, and navigating to the main page. 
 // angular applications need to take care of their own initialization: modules, components, directives, routes, DI providers.

@@ -4324,9 +4324,30 @@
                     "startLine": 293,
                     "startColumn": 4,
                     "startOffset": 21175,
-                    "endLine": 295,
+                    "endLine": 294,
+                    "endColumn": 8,
+                    "endOffset": 21300
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\08a711c00d711011a1a953bd7ad29a15d667b281\\output\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 172,
+                        "endLine": 5,
+                        "endColumn": 8,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 21305,
+                    "endLine": 297,
                     "endColumn": 12,
-                    "endOffset": 21345
+                    "endOffset": 21475
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\values-v21\\values-v21.xml",
@@ -4342,12 +4363,12 @@
             },
             {
                 "to": {
-                    "startLine": 296,
+                    "startLine": 298,
                     "startColumn": 4,
-                    "startOffset": 21350,
-                    "endLine": 300,
+                    "startOffset": 21480,
+                    "endLine": 302,
                     "endColumn": 12,
-                    "endOffset": 21686
+                    "endOffset": 21816
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\values-v21\\values-v21.xml",
@@ -4363,12 +4384,12 @@
             },
             {
                 "to": {
-                    "startLine": 301,
+                    "startLine": 303,
                     "startColumn": 4,
-                    "startOffset": 21691,
-                    "endLine": 303,
+                    "startOffset": 21821,
+                    "endLine": 305,
                     "endColumn": 12,
-                    "endOffset": 21884
+                    "endOffset": 22014
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\.android\\build-cache\\750b3884c9b737b2d7e5f3a9d77409c248f1306b\\output\\res\\values-v21\\values-v21.xml",

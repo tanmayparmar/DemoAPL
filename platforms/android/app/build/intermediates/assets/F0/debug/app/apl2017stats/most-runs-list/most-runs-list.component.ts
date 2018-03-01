@@ -1,4 +1,5 @@
 import { Players } from "./../../model/players";
+import 'core-js/es7/reflect';
 import { FirebaseService } from "./../../services/firebase.service";
 import { Router } from "@angular/router";
 import { RouterExtensions } from "nativescript-angular/router";

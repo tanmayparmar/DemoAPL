@@ -3,30 +3,30 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\parma\.android\build-cache\c88ed5b64f852f49fc439e6ed660596d76288a9d\output\jars\classes.jar"
+        jar="C:\Users\Administrator\.android\build-cache\780e833f98b35ba0f02342b127f1f9da817e2186\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="746274223beb11b1cda7854d7eec3038695c2c93">
-        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_2712fcf7a7ef5ed878b8911cb0895f0f0e903b74.jar" />
+        <dex dex="C:\New folder\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_1d1c2331a383f0e5347403a0efd4020872b3affb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\parma\.android\build-cache\b5a19d0f6eecc3bff379ddd4373c2c3bf455c070\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="fe66404378d7791a232cc3331811b2ce402f44c7">
-        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_97fbdcb2bb84edf2f285248fcb6d8211dd502012.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\parma\.android\build-cache\fced65ed83a569a3b08b7612ab1b7e4457fddddf\output\jars\classes.jar"
+        jar="C:\Users\Administrator\.android\build-cache\266712879c3a1b6efb82799a4162284845048f0f\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
-        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_7fd577336118b881852bce495afa62c8c216cf42.jar" />
+        <dex dex="C:\New folder\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_bd13531d42f9c577970f80dfedf28355eb1fb7bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\181bf66d63f438be539be40931dbb924eaf37417\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe66404378d7791a232cc3331811b2ce402f44c7">
+        <dex dex="C:\New folder\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_10ef2837540278783b986197ed332d5d6b5d34e0.jar" />
     </item>
 
 </items>

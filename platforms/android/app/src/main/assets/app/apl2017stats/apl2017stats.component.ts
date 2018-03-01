@@ -1,4 +1,7 @@
 import { Component, OnInit } from "@angular/core";
+import { RouterExtensions } from "nativescript-angular/router";
+import "core-js/es7/reflect";
+
 
 @Component({
  moduleId: module.id,
@@ -8,5 +11,14 @@ import { Component, OnInit } from "@angular/core";
 })
 export class Apl2017statsComponent  {
   // tslint:disable-next-line:no-empty
-  constructor() { }
+  constructor(private routerExtensions: RouterExtensions) { }
+
+  onGetBowlerList(): void {
+    this.routerExtensions.navigate(["mostWicketsList"]);
+    }
+
+    onGetBatsmanList(): void {
+      this.routerExtensions.navigate(["mostRunsList"]);
+      }
 }
+

@@ -7,7 +7,7 @@
     <ListView [items] = "players$ | async" height="300">
       <ng-template let-item="item">
         <GridLayout columns="auto,*,auto">
-         <Label class="m-5 name" [text]="'Name:' + item.name + ' Wickets:' + item.run"></Label>
+         <Label class="m-5 name" [text]="'Name:' + item.name + ' Wickets:' + item.wicket"></Label>
         </GridLayout>
       </ng-template>
     </ListView>
