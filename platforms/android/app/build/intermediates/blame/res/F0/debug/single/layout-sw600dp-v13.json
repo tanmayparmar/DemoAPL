@@ -2,5 +2,9 @@
     {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\750b3884c9b737b2d7e5f3a9d77409c248f1306b\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\22679382035548adadcc2777129101ca9cb104ed\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

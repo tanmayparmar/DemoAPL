@@ -3,21 +3,30 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\6e91b9772db96815618acf33765d88248b72a51b\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="fe66404378d7791a232cc3331811b2ce402f44c7">
-        <dex dex="C:\New folder\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_05fe0ea8f65b4a4a0c4ecc1554bd2d93d677000a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\8a5339e506c4f9699a4ddbf94ba70bbdddb5c827\output\jars\classes.jar"
+        jar="C:\Users\parma\.android\build-cache\c88ed5b64f852f49fc439e6ed660596d76288a9d\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="746274223beb11b1cda7854d7eec3038695c2c93">
-        <dex dex="C:\New folder\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_1b9ea08ff0939d2b792b763fb41deb60cbb87733.jar" />
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_2712fcf7a7ef5ed878b8911cb0895f0f0e903b74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\b5a19d0f6eecc3bff379ddd4373c2c3bf455c070\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe66404378d7791a232cc3331811b2ce402f44c7">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_97fbdcb2bb84edf2f285248fcb6d8211dd502012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\fced65ed83a569a3b08b7612ab1b7e4457fddddf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_7fd577336118b881852bce495afa62c8c216cf42.jar" />
     </item>
 
 </items>

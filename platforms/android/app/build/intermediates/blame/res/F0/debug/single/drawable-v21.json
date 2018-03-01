@@ -4,12 +4,32 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\750b3884c9b737b2d7e5f3a9d77409c248f1306b\\output\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\eb9982c281ef8338f73211f818051b49f1aa0747\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\notification_action_background.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\22679382035548adadcc2777129101ca9cb104ed\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\22679382035548adadcc2777129101ca9cb104ed\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\750b3884c9b737b2d7e5f3a9d77409c248f1306b\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\22679382035548adadcc2777129101ca9cb104ed\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\eb9982c281ef8338f73211f818051b49f1aa0747\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\abc_btn_colored_material.xml",
@@ -28,7 +48,19 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\750b3884c9b737b2d7e5f3a9d77409c248f1306b\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\22679382035548adadcc2777129101ca9cb104ed\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\eb9982c281ef8338f73211f818051b49f1aa0747\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\avd_show_password.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\750b3884c9b737b2d7e5f3a9d77409c248f1306b\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\eb9982c281ef8338f73211f818051b49f1aa0747\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     }
 ]

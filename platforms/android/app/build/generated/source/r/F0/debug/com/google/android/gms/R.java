@@ -94,6 +94,10 @@ public final class R {
         public static final int common_signin_button_text_long = 0x7f060024;
         public static final int fcm_fallback_notification_channel_label = 0x7f060025;
     }
+    public static final class style {
+        public static final int Theme_AppInvite_Preview = 0x7f08012a;
+        public static final int Theme_AppInvite_Preview_Base = 0x7f080024;
+    }
     public static final class styleable {
         public static final int[] LoadingImageView = { 0x7f0100e2, 0x7f0100e3, 0x7f0100e4 };
         public static final int LoadingImageView_circleCrop = 2;

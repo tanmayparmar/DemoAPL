@@ -2,5 +2,9 @@
     {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi-v4\\splash_screen.xml",
         "source": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\src\\main\\res\\drawable-nodpi\\splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi-v4\\splash_screen.xml",
+        "source": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\src\\main\\res\\drawable-nodpi\\splash_screen.xml"
     }
 ]

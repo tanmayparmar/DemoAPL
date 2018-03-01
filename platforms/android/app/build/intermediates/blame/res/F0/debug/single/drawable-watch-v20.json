@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\ee535153de1807d57dde3dffe8b7df3ee0993ae4\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\54fa9da61dae10f75adec42ebb7f08907926f65a\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
     },
@@ -10,5 +14,13 @@
     {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\54fa9da61dae10f75adec42ebb7f08907926f65a\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\ee535153de1807d57dde3dffe8b7df3ee0993ae4\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\ee535153de1807d57dde3dffe8b7df3ee0993ae4\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
     }
 ]

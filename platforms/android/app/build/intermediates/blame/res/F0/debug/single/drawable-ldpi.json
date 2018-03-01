@@ -8,7 +8,19 @@
         "source": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\background.png"
     },
     {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\icon.png",
+        "source": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\background.png",
+        "source": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\icon.png",
         "source": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\logo.png",
+        "source": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
     }
 ]

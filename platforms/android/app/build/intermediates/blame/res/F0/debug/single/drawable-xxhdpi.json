@@ -1,11 +1,23 @@
 [
     {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\background.png",
+        "source": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\background.png",
         "source": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\background.png"
     },
     {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\logo.png",
         "source": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
     },
     {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\icon.png",

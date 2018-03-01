@@ -7,7 +7,7 @@ import "rxjs/add/operator/share";
 
 @Injectable()
 export class FirebaseService {
-   //  private players : Players[];
+  //   private players : Players[];
 
   constructor(private ngZone: NgZone) {}
   items: BehaviorSubject<Array<Players>> = new BehaviorSubject([]);
@@ -29,7 +29,6 @@ export class FirebaseService {
   getBowlerList(): Observable<any> {
     return new Observable((observer: any) => {
       let path = "bowlerList";
-
       let onValueEvent = (snapshot: any) => {
         this.ngZone.run(() => {
           let results = this.handleSnapshot(snapshot.value);

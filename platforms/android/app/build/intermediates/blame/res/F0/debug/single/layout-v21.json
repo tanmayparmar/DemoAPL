@@ -8,8 +8,24 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\eb9982c281ef8338f73211f818051b49f1aa0747\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_action_tombstone.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\eb9982c281ef8338f73211f818051b49f1aa0747\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\eb9982c281ef8338f73211f818051b49f1aa0747\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\eb9982c281ef8338f73211f818051b49f1aa0747\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_template_icon_group.xml",

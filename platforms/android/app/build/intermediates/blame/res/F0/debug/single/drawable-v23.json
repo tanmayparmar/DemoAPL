@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\eb9982c281ef8338f73211f818051b49f1aa0747\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v23\\abc_control_background_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\drawable-v23\\abc_control_background_material.xml"
     }
