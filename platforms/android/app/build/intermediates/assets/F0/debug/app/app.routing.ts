@@ -14,11 +14,10 @@ export const routes: Routes = [
     { path:"", component: Apl2017statsComponent},
     { path:"apl2017stats", component: Apl2017statsComponent},
       { path: "mostRunsList", component: MostRunsListComponent},
-      { path: "mostWicketsList", component: MostWicketsListComponent },
-    
+      { path: "mostWicketsList", component: MostWicketsListComponent }
      ];
 
-     export const navigatableComponents: any = [ 
+     export const navigatableComponents: any = [
      Apl2017statsComponent,
         MostRunsListComponent,
         MostWicketsListComponent

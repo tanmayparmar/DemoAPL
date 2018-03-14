@@ -4,16 +4,16 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\parma\\.android\\build-cache\\eb9982c281ef8338f73211f818051b49f1aa0747\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\notification_action.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\eb9982c281ef8338f73211f818051b49f1aa0747\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
         "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
@@ -156,12 +156,12 @@
         "source": "C:\\Users\\parma\\.android\\build-cache\\eb9982c281ef8338f73211f818051b49f1aa0747\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\design_bottom_navigation_item.xml",
@@ -176,12 +176,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\Users\\parma\\.android\\build-cache\\22679382035548adadcc2777129101ca9cb104ed\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
-    },
-    {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\logcat_tab.xml",
         "source": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\src\\debug\\res\\layout\\logcat_tab.xml"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\22679382035548adadcc2777129101ca9cb104ed\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\design_navigation_item_header.xml",

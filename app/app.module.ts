@@ -1,15 +1,16 @@
-import { MostRunsListComponent } from "./apl2017stats/most-runs-list/most-runs-list.component";
+import { Apl2017StatsModule } from "./apl2017-stats/apl2017-stats.module";
 import { FirebaseService } from "./services/firebase.service";
-import { NgModule, NO_ERRORS_SCHEMA } from "@angular/core";
+import { NgModule, NO_ERRORS_SCHEMA, NgModuleFactoryLoader } from "@angular/core";
 import { NativeScriptModule } from "nativescript-angular/nativescript.module";
-import { navigatableComponents, routes } from "./app.routing";
+import { NativeScriptFormsModule } from "nativescript-angular/forms";
+import { routes, routing } from "./app.routing";
 import { AppComponent } from "./app.component";
 import { ItemService } from "./item/item.service";
 import { ItemsComponent } from "./item/items.component";
 import { ItemDetailComponent } from "./item/item-detail.component";
-import { Apl2017statsComponent } from "./apl2017stats/apl2017stats.component";
-import { MostWicketsListComponent } from "./apl2017stats/most-wickets-list/most-wickets-list.component";
-import { NativeScriptRouterModule } from "nativescript-angular/router";
+import { NativeScriptRouterModule, NSModuleFactoryLoader } from "nativescript-angular/router";
+import { HomeComponent } from "./home/home.component";
+import { Routes } from "@angular/router";
 
 // uncomment and add to NgModule imports if you need to use two-way binding
 // import { NativeScriptFormsModule } from "nativescript-angular/forms";
@@ -22,20 +23,23 @@ import { NativeScriptRouterModule } from "nativescript-angular/router";
      AppComponent
     ],
     imports: [
+    //    Apl2017StatsModule,
         NativeScriptModule,
-        NativeScriptRouterModule,                
-    NativeScriptRouterModule.forRoot(routes)
-        
+        NativeScriptFormsModule,
+        NativeScriptRouterModule,
+        routing,
+        NativeScriptRouterModule.forRoot(routes)
     ],
     declarations: [
         AppComponent,
         ItemsComponent,
         ItemDetailComponent,
-        ...navigatableComponents
+        HomeComponent
     ],
     providers: [
         ItemService,
-        FirebaseService
+        FirebaseService,
+        { provide: NgModuleFactoryLoader, useClass: NSModuleFactoryLoader }
     ],
     schemas: [
         NO_ERRORS_SCHEMA

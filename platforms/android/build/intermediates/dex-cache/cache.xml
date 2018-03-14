@@ -3,30 +3,462 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\780e833f98b35ba0f02342b127f1f9da817e2186\output\jars\classes.jar"
+        jar="C:\Users\parma\.android\build-cache\7c694bb1fb72062e1880b8c58c28abfdde1471e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c2806325d672678e8d5445b1feaccd0b27c799cb">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0F1F2F3\debug\classes_28b62e1e0c4580173270191fb079308f411a3413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\149a6a8c5ff6f9ea1b56d6d8ae24795adb35587d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_e265f8694fa69cc1cbb16ef59208dd0c8250eca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\23a30d0bab6d5a27eebce32956f20628bb6004aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_4772d5295abd5a76ca2e239de0b77d5966264e7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\91f7599f013c90a06d35a125b8dc65edfb0b3265\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_be4ff6e6ecf5c8ace2b90a8be965de139eb0020d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\a124efbc5a75fdb36ced9ab484f653963dcfb439\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5a74189ec3dc61210da5bee7eb39a3bfc845209b">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0F1F2F3\debug\classes_816ebed3c343a3013321e8c5b4bd9a552e82259e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\20b6a368d1a907717966a24b5e3c865c1a77b209\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_852c7f7de59ec9ea4c9641a1516424407fdbb091.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\eb9982c281ef8338f73211f818051b49f1aa0747\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_d19db2d7f1ca100656da3dfe0eeed6082eafb9ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\0c054c640786e0485ca5b6d6ba89607f90709ddf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_5caad397e596357b2d2bca91ab533687c3165d9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\a2f5017840285d2ba77ffa0e0baa3df2585968e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_1a18204cd88f3ce8c936f5a56fb66088db3f0009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\c1065f907758071b64c35e53fd7e4d26fae3090c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_73026fa8b80cfeaf45e7181f7307a6e1854bd052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\okio-1.6.0_adbab8a35d1267c9ce31ddd1c416fb4cbff1d638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\0c24083074fd6cf1212cbe76a04ab633ae4c849e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_f01dc9c4460291248fc12de721c6e5b428827448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\631f740ad692fcbae768363db729fdfe56eeb455\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="22ef712472dbfd831a3ac341e9820e76e8c1adeb">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0F1F2F3\debug\classes_94d414750728d219d88874fefc8d747bfd43e0f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\299ad007a3fb21c28221025b63116c882f24a0aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4e7ca65463655d11456435e37fba9500c070d05e">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_36624320fbbee7696e0f0e3a34a79d6ef9a90674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\gson-2.8.2_5392cf2251c57241550a7abbe6225bdb31a99ed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\ec0046c8803a718ecb37af7f8da8c10aba969c32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_e011adb18e541990a255e3eb657606ef70175550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\d565488f175388deee133ad45dfe38bb45e3ec2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_69a93b2ebf715cf540b9034ddd10c00da9f686f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\463b5412aa13d75419c5e0037455d433555e3bfc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="99ca653cc13a87b1724e43ada43f1d9e18cc3814">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0F1F2F3\debug\classes_32aa2c6cb1b3ca42d4d6110c7cb72e3778af1e27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\22679382035548adadcc2777129101ca9cb104ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_259bc6f6fd0dd3d4ce45e17463611dfd7c497807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\SDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\support-annotations-26.0.0-alpha1_9209b9c8f028cb684285a16e0087b8f7c26159d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\af0f676eb747d6e55a1c1342fc9098252cc37aff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_becf01b3687a4d95861870f2652183e382568afb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\f273d079865cf7af950ceb72ab1440961d9321d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ef198f6c2a75a8ad36f0684783d86e266de2ab4d">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0F1F2F3\debug\classes_02c9746e214b218d6fdcf8da902a7d0a1bcd7552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\bd395a9eb656c2583b585c9ad0ca72c6e2b877a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_d368442a9c76e721fedc50f24e1d2f3b2fa7aafa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\fe99586b68cad22b864777d39bfc3f8b2b242ee3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="624783ca369e06889de0109fa6e19357a9a736ec">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0F1F2F3\debug\classes_82f0585fe73dc7866d0142aa0bf27e8e870104ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\009179e11b57ea875bde7a0268284c6c6884e2cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_0bf27f472ebe215a8ad025db2dd952c0ba719710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\c7f82612f730850563f30fd976b0fd8f7a23a6bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_a1e8a8d7153da5e01fb620a62b5d667655665957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\8bc6075988839872d694aa288eb8b64468d12672\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_142b7c5bd55cb0ea8b7c58d8b9ee9beddb5f287a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\3fa84fdb015c5021793ac80c33be2761f73b1b0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4144cb9a114baa005a0d4072596698f7dfd606e5">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0F1F2F3\debug\classes_5c642aab3e910c664e010bd90643dd3947649c44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\7f802451130b7333dbe07a2b834449dbcb8c4730\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d9a09584e04eb95d247f251d5d498eb57fcf6e41">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_3a46acbe7ab90c1c722b16a2f7a4875d2c56088b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\0b06a7d06cccfe7296f40d817f2e60e520b8565b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b882397288de69e13ff147bdefe584cc6deb055">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_db20673aef702bda5005e0ccf839a5db3034779a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\ac2fe4164c8c2712fca4a57fa5d6ddcefa192075\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_6e9e0c7c29a4e5130aeb93e8809dfbd538f471bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\4e222f74d90c2df6f237445c8743372963b1a39b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_73e9f481f19b223d4a27662208bdc7458e33323d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\df8fb2b51ea46afe6a31b17968b3d462a4d72340\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="aebd345a61f563da0989cbd014479c8bf7bd77ab">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_1726983a96130ff5cfee9a1604d09f048cb0458c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\0032c42bc68199fdafea441e0543b83a293a4a12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8c5a80c80167d5e6bfe84309f0787a769fd23f61">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_390e84473a42ea776b37813277038b6638a0d4d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\7978da3bcb459609b941cb5ba30b71473734bf6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_18df3d7c45da695d4a1162a84cac795b507ca4c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\c88ed5b64f852f49fc439e6ed660596d76288a9d\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="746274223beb11b1cda7854d7eec3038695c2c93">
-        <dex dex="C:\New folder\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_1d1c2331a383f0e5347403a0efd4020872b3affb.jar" />
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_2712fcf7a7ef5ed878b8911cb0895f0f0e903b74.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\266712879c3a1b6efb82799a4162284845048f0f\output\jars\classes.jar"
+        jar="C:\Users\parma\.android\build-cache\44f3903121016da95022a88971f532a16a374e00\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
-        <dex dex="C:\New folder\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_bd13531d42f9c577970f80dfedf28355eb1fb7bc.jar" />
+        sha1="c59cc4d67084879423713a416182208836c0a29f">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_8e0ac3010667f77afe03e095e1e66b20b9e161cf.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\181bf66d63f438be539be40931dbb924eaf37417\output\jars\classes.jar"
+        jar="C:\Users\parma\.android\build-cache\93265137113e9c473f43a882683face8f29ddafd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_39f11904509d5fdfd19839675547de834f1d1a36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\5f2c8efdbfce5f6231a4703739adfb5a055e1212\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="87a252a5f0475f2597b3ca528b423d8a8477b2f7">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0F1F2F3\debug\classes_9f23b098216b069aaaf0d5cb04eac8064d20cb8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\a62108970a5aa6bf3f0f5adf33c4e312c55a29fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe94ced585bffcf3c7f788a294cc54e6785544ac">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_fce98df2eed145be8535124db5b38cfa7f62026e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\62cd090ba29460cf6a2fb74368adf6ab3fd1773c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_4aa7e7abc2d4a3a958802eb1d55dc54666dd8e84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\5aa6b19b6f714bccde7edb13c44bf2287b34f9e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_3e1827f8d804a8c1f0a618ad1f27ba63f4724d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.2\20f6463eb19ac61960c5d91a094c2f4f0727dc2e\okhttp-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\okhttp-2.7.2_03bbfdb76ddacfcc1e8c655b38a78ebac26c6b67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\90aa2f833cd187995debbba5206d30d6ebef0b2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9e1723e2b7291ed86aef50a6231b98951acd5ab5">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0F1F2F3\debug\classes_b61f7a40b6bfc1cfa8e0e3b30d3b5c794f0da489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\3c14f8954dce3f3426f0167bdad2f9b8ccc458c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e59236507fc1c595cd784ce9aa81c2c04888fd40">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_6bc06235f24c7d287adf75d27f3a01db673aaa38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\b5a19d0f6eecc3bff379ddd4373c2c3bf455c070\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="fe66404378d7791a232cc3331811b2ce402f44c7">
-        <dex dex="C:\New folder\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_10ef2837540278783b986197ed332d5d6b5d34e0.jar" />
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_97fbdcb2bb84edf2f285248fcb6d8211dd502012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\0c9e9a804e62d2a05b3ffb958af9271d352964f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_789eae62509f8a6d3214dec278e5ef1a4f6660da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\633cb8826787fa34f2bece1ad901984afe770f42\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_b4d9624a86c6b8b37290c167b5519cbd8a305512.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\ee535153de1807d57dde3dffe8b7df3ee0993ae4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6746a3078625563a9eb381920f34e47ccd6bab87">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_83378a3b0fc9ccfc83212f6f697f653f3276661e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\8ed280a06a2182d83a4381182f709a94f0678cb2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_3d03ced6b56afa70eb357a996bae87cfcd09bb7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parma\.android\build-cache\fced65ed83a569a3b08b7612ab1b7e4457fddddf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_7fd577336118b881852bce495afa62c8c216cf42.jar" />
     </item>
 
 </items>

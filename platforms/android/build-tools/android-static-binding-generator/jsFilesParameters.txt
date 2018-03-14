@@ -1,245 +1,252 @@
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\app.component.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\app.module.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\app.routing.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\main.aot.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\main.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\apl2017stats\apl2017stats.component.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\apl2017stats\most-runs-list\most-runs-list.component.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\apl2017stats\most-wickets-list\most-wickets-list.component.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\item\item-detail.component.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\item\item.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\item\item.service.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\item\items.component.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\model\players.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\services\firebase.service.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\dom-adapter.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\element-registry.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\lang-facade.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\modal-dialog.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\nativescript.module.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\platform-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\platform-providers.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\platform-static.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\platform.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\postinstall.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\renderer.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\resource-loader.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\schema-registry.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\trace.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\view-util.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\animations\animation-driver.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\animations\animation-player.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\animations\animations.module.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\animations\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\animations\utils.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\common\detached-loader.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\directives\action-bar.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\directives\dialogs.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\directives\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\directives\list-view-comp.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\directives\platform-filters.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\directives\tab-view.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\file-system\ns-file-system.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\forms.module.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\base-value-accessor.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\checked-value-accessor.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\date-value-accessor.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\number-value-accessor.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\selectedIndex-value-accessor.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\text-value-accessor.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\time-value-accessor.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\hooks\before-livesync.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\hooks\hook-helper.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\http\http.module.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\http\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\http\ns-http.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\http-client\http-client.module.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\http-client\http-utils.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\http-client\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\http-client\ns-http-backend.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\polyfills\array.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\polyfills\console.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\ns-location-strategy.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\ns-module-factory-loader.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\ns-platform-location.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\ns-route-reuse-strategy.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\ns-router-link-active.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\ns-router-link.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\page-router-outlet.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\router-extensions.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\router.module.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\private-imports\router-url-tree.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\value-accessors\base-value-accessor.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\zone-js\dist\zone-nativescript.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\firebase-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\firebase.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\postinstall-hooks.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\preuninstall-hooks.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\app\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\app\auth\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\app\database\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\app\database\util\NextPushId.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\app\firestore\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\scripts\entitlements-after-prepare.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\scripts\entitlements-before-prepare.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\scripts\postinstall.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\bundle-entry-points.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application\application-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application\application.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application-settings\application-settings-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application-settings\application-settings.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\color\color-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\color\color.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\color\known-colors.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\connectivity\connectivity.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\console\console.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\css\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\css\parser.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\css\lib\parse\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\css-value\index.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\debugger\debugger.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\debugger\devtools-elements.common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\debugger\devtools-elements.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\debugger\dom-node.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\fetch\fetch.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\file-system\file-system-access.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\file-system\file-system.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\fps-meter\fps-meter.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\fps-meter\fps-native.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\globals\decorators.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\globals\globals.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\http\http.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\http\http-request\http-request-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\http\http-request\http-request.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\image-asset\image-asset-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\image-asset\image-asset.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\image-source\image-source.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\matrix\matrix.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\platform\platform.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\profiling\profiling.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\text\formatted-string.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\text\span.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\text\text.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\timer\timer.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\trace\trace.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\action-bar\action-bar-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\action-bar\action-bar.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\activity-indicator\activity-indicator-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\activity-indicator\activity-indicator.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\animation\animation-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\animation\animation.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\animation\keyframe-animation.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\border\border.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\builder\binding-builder.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\builder\builder.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\builder\component-builder\component-builder.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\button\button-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\button\button.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\content-view\content-view.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\core\bindable\bindable.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\core\dependency-observable\dependency-observable.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\core\properties\properties.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\core\view\view-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\core\view\view.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\core\view-base\view-base.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\core\weak-event-listener\weak-event-listener.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\date-picker\date-picker-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\date-picker\date-picker.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\dialogs\dialogs-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\dialogs\dialogs.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\editable-text-base\editable-text-base-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\editable-text-base\editable-text-base.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\enums\enums.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\frame\activity.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\frame\fragment.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\frame\fragment.transitions.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\frame\frame-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\frame\frame.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\gestures\gestures-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\gestures\gestures.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\html-view\html-view-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\html-view\html-view.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\image\image-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\image\image.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\image-cache\image-cache-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\image-cache\image-cache.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\label\label.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\layout-base-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\layout-base.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\layout.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\absolute-layout\absolute-layout-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\absolute-layout\absolute-layout.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\dock-layout\dock-layout-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\dock-layout\dock-layout.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\flexbox-layout\flexbox-layout-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\flexbox-layout\flexbox-layout.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\grid-layout\grid-layout-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\grid-layout\grid-layout.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\stack-layout\stack-layout-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\stack-layout\stack-layout.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\wrap-layout\wrap-layout-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\wrap-layout\wrap-layout.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\list-picker\list-picker-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\list-picker\list-picker.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\list-view\list-view-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\list-view\list-view.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\page\constants.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\page\page-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\page\page.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\placeholder\placeholder.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\progress\progress-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\progress\progress.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\proxy-view-container\proxy-view-container.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\repeater\repeater.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\scroll-view\scroll-view-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\scroll-view\scroll-view.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\search-bar\search-bar-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\search-bar\search-bar.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\segmented-bar\segmented-bar-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\segmented-bar\segmented-bar.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\slider\slider-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\slider\slider.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\background-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\background.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\converters.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\css-animation-parser.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\font-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\font.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\style-properties.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\style-scope.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\css-selector\css-selector.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\style\style.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\switch\switch-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\switch\switch.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\tab-view\tab-view-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\tab-view\tab-view.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\text-base\text-base-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\text-base\text-base.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\text-field\text-field-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\text-field\text-field.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\text-view\text-view.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\time-picker\time-picker-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\time-picker\time-picker.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\transition\fade-transition.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\transition\flip-transition.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\transition\slide-transition.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\transition\transition.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\web-view\web-view-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\web-view\web-view.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\debug.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\lazy.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\module-merge.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\number-utils.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\types.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\utils-common.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\utils.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\xhr\xhr.js
-C:\New folder\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\xml\xml.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\app.component.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\app.module.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\app.routing.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\main.aot.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\main.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\apl2017stats\apl2017stats.component.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\apl2017stats\most-runs-list\most-runs-list.component.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\apl2017stats\most-wickets-list\most-wickets-list.component.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\home\home.component.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\item\item-detail.component.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\item\item.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\item\item.service.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\item\items.component.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\model\players.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\services\firebase.service.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\dom-adapter.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\element-registry.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\lang-facade.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\modal-dialog.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\nativescript.module.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\platform-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\platform-providers.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\platform-static.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\platform.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\postinstall.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\renderer.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\resource-loader.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\schema-registry.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\trace.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\view-util.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\animations\animation-driver.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\animations\animation-player.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\animations\animations.module.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\animations\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\animations\utils.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\common\detached-loader.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\directives\action-bar.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\directives\dialogs.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\directives\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\directives\list-view-comp.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\directives\platform-filters.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\directives\tab-view.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\file-system\ns-file-system.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\forms.module.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\base-value-accessor.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\checked-value-accessor.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\date-value-accessor.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\number-value-accessor.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\selectedIndex-value-accessor.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\text-value-accessor.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\forms\value-accessors\time-value-accessor.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\hooks\before-livesync.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\hooks\hook-helper.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\http\http.module.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\http\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\http\ns-http.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\http-client\http-client.module.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\http-client\http-utils.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\http-client\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\http-client\ns-http-backend.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\polyfills\array.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\polyfills\console.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\ns-location-strategy.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\ns-module-factory-loader.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\ns-platform-location.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\ns-route-reuse-strategy.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\ns-router-link-active.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\ns-router-link.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\page-router-outlet.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\router-extensions.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\router.module.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\router\private-imports\router-url-tree.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\value-accessors\base-value-accessor.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\zone-js\dist\zone-nativescript.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-cardview\cardview-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-cardview\cardview.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\firebase-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\firebase.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\postinstall-hooks.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\preuninstall-hooks.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\app\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\app\auth\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\app\database\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\app\database\util\NextPushId.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\app\firestore\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\scripts\entitlements-after-prepare.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\scripts\entitlements-before-prepare.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-plugin-firebase\scripts\postinstall.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-pro-ui\scripts\eula-prompt.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ui-listview\ui-listview.common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ui-listview\ui-listview.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ui-listview\hooks\before-livesync\nativescript-angular-sync.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\bundle-entry-points.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application\application-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application\application.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application-settings\application-settings-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application-settings\application-settings.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\color\color-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\color\color.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\color\known-colors.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\connectivity\connectivity.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\console\console.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\css\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\css\parser.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\css\lib\parse\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\css-value\index.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\debugger\debugger.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\debugger\devtools-elements.common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\debugger\devtools-elements.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\debugger\dom-node.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\fetch\fetch.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\file-system\file-system-access.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\file-system\file-system.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\fps-meter\fps-meter.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\fps-meter\fps-native.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\globals\decorators.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\globals\globals.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\http\http.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\http\http-request\http-request-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\http\http-request\http-request.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\image-asset\image-asset-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\image-asset\image-asset.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\image-source\image-source.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\matrix\matrix.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\platform\platform.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\profiling\profiling.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\text\formatted-string.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\text\span.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\text\text.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\timer\timer.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\trace\trace.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\action-bar\action-bar-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\action-bar\action-bar.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\activity-indicator\activity-indicator-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\activity-indicator\activity-indicator.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\animation\animation-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\animation\animation.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\animation\keyframe-animation.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\border\border.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\builder\binding-builder.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\builder\builder.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\builder\component-builder\component-builder.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\button\button-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\button\button.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\content-view\content-view.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\core\bindable\bindable.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\core\dependency-observable\dependency-observable.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\core\properties\properties.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\core\view\view-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\core\view\view.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\core\view-base\view-base.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\core\weak-event-listener\weak-event-listener.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\date-picker\date-picker-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\date-picker\date-picker.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\dialogs\dialogs-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\dialogs\dialogs.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\editable-text-base\editable-text-base-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\editable-text-base\editable-text-base.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\enums\enums.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\frame\activity.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\frame\fragment.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\frame\fragment.transitions.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\frame\frame-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\frame\frame.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\gestures\gestures-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\gestures\gestures.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\html-view\html-view-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\html-view\html-view.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\image\image-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\image\image.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\image-cache\image-cache-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\image-cache\image-cache.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\label\label.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\layout-base-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\layout-base.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\layout.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\absolute-layout\absolute-layout-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\absolute-layout\absolute-layout.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\dock-layout\dock-layout-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\dock-layout\dock-layout.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\flexbox-layout\flexbox-layout-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\flexbox-layout\flexbox-layout.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\grid-layout\grid-layout-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\grid-layout\grid-layout.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\stack-layout\stack-layout-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\stack-layout\stack-layout.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\wrap-layout\wrap-layout-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\layouts\wrap-layout\wrap-layout.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\list-picker\list-picker-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\list-picker\list-picker.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\list-view\list-view-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\list-view\list-view.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\page\constants.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\page\page-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\page\page.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\placeholder\placeholder.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\progress\progress-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\progress\progress.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\proxy-view-container\proxy-view-container.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\repeater\repeater.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\scroll-view\scroll-view-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\scroll-view\scroll-view.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\search-bar\search-bar-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\search-bar\search-bar.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\segmented-bar\segmented-bar-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\segmented-bar\segmented-bar.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\slider\slider-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\slider\slider.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\background-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\background.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\converters.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\css-animation-parser.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\font-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\font.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\style-properties.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\style-scope.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\css-selector\css-selector.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\styling\style\style.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\switch\switch-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\switch\switch.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\tab-view\tab-view-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\tab-view\tab-view.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\text-base\text-base-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\text-base\text-base.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\text-field\text-field-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\text-field\text-field.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\text-view\text-view.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\time-picker\time-picker-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\time-picker\time-picker.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\transition\fade-transition.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\transition\flip-transition.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\transition\slide-transition.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\transition\transition.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\web-view\web-view-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\ui\web-view\web-view.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\debug.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\lazy.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\module-merge.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\number-utils.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\types.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\utils-common.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\utils.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\xhr\xhr.js
+D:\Demo\nativescript\DemoAPL\DemoAPL\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\xml\xml.js

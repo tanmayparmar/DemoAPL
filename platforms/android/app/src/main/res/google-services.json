@@ -8,9 +8,15 @@
   "client": [
     {
       "client_info": {
+<<<<<<< HEAD
         "mobilesdk_app_id": "1:165412092097:android:6da04b2f7508dac9",
         "android_client_info": {
           "package_name": "org.nativescript.DemoAPL"
+=======
+        "mobilesdk_app_id": "1:165412092097:android:5c5ca973234561dd",
+        "android_client_info": {
+          "package_name": "org.nativescript.demoApp"
+>>>>>>> 90cae6837d3056314442ed396a999ea49f4247d8
         }
       },
       "oauth_client": [

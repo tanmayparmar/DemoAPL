@@ -8,12 +8,12 @@
         "source": "C:\\Users\\parma\\.android\\build-cache\\ec0046c8803a718ecb37af7f8da8c10aba969c32\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\parma\\.android\\build-cache\\eb9982c281ef8338f73211f818051b49f1aa0747\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
         "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
         "source": "C:\\Users\\parma\\.android\\build-cache\\ec0046c8803a718ecb37af7f8da8c10aba969c32\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\eb9982c281ef8338f73211f818051b49f1aa0747\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable\\abc_ic_ab_back_material.xml",
@@ -132,20 +132,20 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\c795d8ed2c6bf2dcca58fbc0f35c07640dd5b681\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "C:\\Users\\parma\\.android\\build-cache\\ec0046c8803a718ecb37af7f8da8c10aba969c32\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
-    },
-    {
-        "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\ec0046c8803a718ecb37af7f8da8c10aba969c32\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\parma\\.android\\build-cache\\ec0046c8803a718ecb37af7f8da8c10aba969c32\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\New folder\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8e77c110673f26586e9310690505636076baebd9\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\parma\\.android\\build-cache\\ec0046c8803a718ecb37af7f8da8c10aba969c32\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "D:\\Demo\\nativescript\\DemoAPL\\DemoAPL\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable\\abc_seekbar_track_material.xml",
